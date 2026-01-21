@@ -53,7 +53,7 @@ ts_rx_ns,seq,stream_id
 Install dependencies:
 
 ```bash
-pip install pandas numpy matplotlib
+pip install -r requirements.txt 
 ```
 
 Run analysis with plots:
